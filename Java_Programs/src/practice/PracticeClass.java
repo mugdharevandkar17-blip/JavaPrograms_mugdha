@@ -12,5 +12,8 @@ System.out.println("newchng");
 	System.out.println("whole day updates");
 	System.out.println("fridayUpdate");
 	System.out.println("new TL updates");
+	System.out.println("fridayUpdate_mugdha");
+	System.out.println("fridayUpdate1_mugdha");
+
 }
 }
