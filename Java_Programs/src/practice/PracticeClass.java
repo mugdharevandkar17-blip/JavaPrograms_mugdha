@@ -11,5 +11,6 @@ System.out.println("newchng");
 	System.out.println("last evening updates which you missed");
 	System.out.println("whole day updates");
 	System.out.println("fridayUpdate");
+	System.out.println("new TL updates");
 }
 }
